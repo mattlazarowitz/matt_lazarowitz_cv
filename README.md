@@ -121,3 +121,5 @@
 - **Domains:** Firmware, Embedded Systems, Automotive Safety, IoT, System Software  
 - **Practices:** Code Coverage, FMEA, Code Inspection, Static/Dynamic Analysis, Safety Standards (MISRA, AutoSAR, ISO 26262), AI-Assisted Development  
 - **Tools:** Perforce, Git, UEFI, MQTT, LittleFS, Arduino, ESP8266, FFmpeg/NVENC, Cursor (AI code assistant)  
+
+For direct contact information, please reach out via LinkedIn: linkedin.com/in/matthew-lazarowitz
